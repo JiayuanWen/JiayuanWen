@@ -17,11 +17,14 @@
 <br>
 <br>
 <br>
-## Other facts about me:
-- 📚 Currently studying at Penn State Erie: The Behrend College. Major in Computer Science.
-- 🎬 Operating a YouTube channel: [WeldonWen](https://www.youtube.com/channel/UC7rTMZwC9A6eCrs2vub4bng)
-- ⚽️ Hobby: Gaming, piano, painting.
+## Education:
+Institution: Penn State Erie: The Behrend College \
+Major: Computer Science
 <br>
+<br>
+<br>
+## Other facts about me:
+- 🎬 Operating a YouTube channel: [WeldonWen](https://www.youtube.com/channel/UC7rTMZwC9A6eCrs2vub4bng)
 <br>
 
 ## Contact:
