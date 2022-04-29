@@ -26,6 +26,7 @@ Major: Computer Science
 ## Other facts about me:
 Operating a YouTube channel: [WeldonWen](https://www.youtube.com/channel/UC7rTMZwC9A6eCrs2vub4bng)
 <br>
-
+<br>
+<br>
 ## Contact:
 Email: [jbw5872@psu.edu](mailto:jbw5872@psu.edu)
