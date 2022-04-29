@@ -24,7 +24,7 @@ Major: Computer Science
 <br>
 <br>
 ## Other facts about me:
-- 🎬 Operating a YouTube channel: [WeldonWen](https://www.youtube.com/channel/UC7rTMZwC9A6eCrs2vub4bng)
+🎬 Operating a YouTube channel: [WeldonWen](https://www.youtube.com/channel/UC7rTMZwC9A6eCrs2vub4bng)
 <br>
 
 ## Contact:
