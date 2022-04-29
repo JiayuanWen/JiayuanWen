@@ -17,8 +17,6 @@
 <br>
 <br>
 <br>
-<br>
-<br>
 ## 🎓 Education:
 Institution: Penn State Erie: The Behrend College \
 Major: Computer Science
