@@ -8,7 +8,7 @@
 <br>
 <br>
 <br>
-## Softwares I use:
+## Softwares I Use:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) 
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
@@ -17,12 +17,14 @@
 <br>
 <br>
 <br>
-## Education:
+<br>
+<br>
+## 🎓 Education:
 Institution: Penn State Erie: The Behrend College \
 Major: Computer Science
 
-## Other facts about me:
+## 📋 Other Activities:
 Operating a YouTube channel: [WeldonWen](https://www.youtube.com/channel/UC7rTMZwC9A6eCrs2vub4bng)
 
-## Contact:
+## 📬 Contact:
 Email: [jbw5872@psu.edu](mailto:jbw5872@psu.edu)
