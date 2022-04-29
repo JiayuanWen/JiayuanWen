@@ -20,13 +20,9 @@
 ## Education:
 Institution: Penn State Erie: The Behrend College \
 Major: Computer Science
-<br>
-<br>
-<br>
+
 ## Other facts about me:
 Operating a YouTube channel: [WeldonWen](https://www.youtube.com/channel/UC7rTMZwC9A6eCrs2vub4bng)
-<br>
-<br>
-<br>
+
 ## Contact:
 Email: [jbw5872@psu.edu](mailto:jbw5872@psu.edu)
