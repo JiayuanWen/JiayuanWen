@@ -28,4 +28,4 @@ Major: Computer Science
 <br>
 
 ## Contact:
-- 📫 Email: [jbw5872@psu.edu](mailto:jbw5872@psu.edu)
+📫 Email: [jbw5872@psu.edu](mailto:jbw5872@psu.edu)
