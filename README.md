@@ -20,7 +20,7 @@
 <br>
 <br>
 ## 🎓 Education:
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2019%2F06%2FPennsylvania_State_University_Logo.png&f=1&nofb=1" width="30%"></img> \
+[<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2019%2F06%2FPennsylvania_State_University_Logo.png&f=1&nofb=1" width="30%"></img>](https://www.psu.edu/) \
 <br>
 **Institution:** Penn State Erie: The Behrend College \
 **Major:** Computer Science \
@@ -31,7 +31,7 @@
 ## 📋 Other Activities:
 
 Operating a YouTube channel: [WeldonWen](https://www.youtube.com/channel/UC7rTMZwC9A6eCrs2vub4bng) \
-[![github-YT-banner.png](https://i.postimg.cc/jdvXrF5z/github-YT-banner.png)](https://postimg.cc/0bMmYZ7Q)
+[![github-YT-banner.png](https://i.postimg.cc/jdvXrF5z/github-YT-banner.png)](https://www.youtube.com/channel/UC7rTMZwC9A6eCrs2vub4bng)
 <br>
 <br>
 <br>
