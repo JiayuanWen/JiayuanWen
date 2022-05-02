@@ -22,9 +22,9 @@
 ## 🎓 Education:
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2019%2F06%2FPennsylvania_State_University_Logo.png&f=1&nofb=1" width="30%"></img> \
 <br>
-Institution: Penn State Erie: The Behrend College \
-Major: Computer Science \
-Status: In-progress
+**Institution:** Penn State Erie: The Behrend College \
+**Major:** Computer Science \
+**Status:** In-progress
 <br>
 <br>
 <br>
@@ -35,4 +35,4 @@ Operating a YouTube channel: [WeldonWen](https://www.youtube.com/channel/UC7rTMZ
 <br>
 <br>
 ## 📬 Contact:
-Email: [jbw5872@psu.edu](mailto:jbw5872@psu.edu)
+**Email:** [jbw5872@psu.edu](mailto:jbw5872@psu.edu)
