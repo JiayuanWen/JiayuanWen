@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Jiayuan Wen. You can call me Weldon.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiayuanWen&layout=compact&hide=c&count_private=true&bg_color=00000000&text_color=7c7c7c&border_color=a7a7a7)](https://github.com/JiayuanWen/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiayuanWen&layout=compact&hide=c&count_private=true&&title_color=39d353&bg_color=00000000&text_color=7c7c7c&border_color=a7a7a7)](https://github.com/JiayuanWen/github-readme-stats)
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
