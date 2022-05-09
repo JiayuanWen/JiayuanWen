@@ -23,7 +23,7 @@
 <br>
 **Institution:** Penn State Erie: The Behrend College \
 **Major:** Computer Science \
-**Status:** In-progress
+**GPA:** 3.1
 <br>
 <br>
 <br>
