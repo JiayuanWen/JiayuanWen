@@ -23,7 +23,7 @@
 <br>
 **Institution:** Penn State Erie: The Behrend College \
 **Major:** Computer Science \
-**GPA:** 3.1
+**GPA:** 3.10
 <br>
 <br>
 <br>
