@@ -28,12 +28,5 @@
 <br>
 <br>
 <br>
-## 📋 Other Activities:
-
-Operating a YouTube channel: [WeldonWen](https://www.youtube.com/channel/UC7rTMZwC9A6eCrs2vub4bng) \
-[![github-YT-banner.png](https://i.postimg.cc/jdvXrF5z/github-YT-banner.png)](https://www.youtube.com/channel/UC7rTMZwC9A6eCrs2vub4bng)
-<br>
-<br>
-<br>
 ## 📬 Contact:
 **Email:** [jbw5872@psu.edu](mailto:jbw5872@psu.edu)
