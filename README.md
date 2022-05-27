@@ -5,11 +5,16 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) \
 <br>
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1600%2F0*GePc7lo4CF4A3guP.png&f=1&nofb=1" width="25%"></img> \
+[![Leetcode Stats](https://leetcode.card.workers.dev/?username=jiayuanwen&show_rank=false&extension=activity)](https://leetcode.com/jiayuanwen) \
+<br>
+<br>
+<br>
 [![linkedin](https://linkedin-github.herokuapp.com/api/render/Jiayuan%20Wen/Computer%20Science%20/Student/Bachelor's%20degree/dark/https%3A%2F%2Fmedia-exp1.licdn.com%2Fdms%2Fimage%2FC4E03AQGEAUN3G2_SpQ%2Fprofile-displayphoto-shrink_200_200%2F0%2F1652309331391%3Fe%3D1658966400%26v%3Dbeta%26t%3DR6JgiEJB3Hd5AKIoq8CRyMeD7PA-_IL6mwYO6Ah36-k)](https://www.linkedin.com/in/jiayuanwen/)
 <br>
 <br>
 <br>
-## Softwares Experiences
+## 🛠️ Softwares Experiences
 
  [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) 
 [![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat-square&logo=android-studio&logoColor=white)](https://developer.android.com/studio) 
