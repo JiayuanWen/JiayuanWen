@@ -3,7 +3,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiayuanWen&layout=compact&hide=c&count_private=false&bg_color=00000000&text_color=777777&border_color=777777)](https://github.com/JiayuanWen/github-readme-stats) \
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) \
+<br>
+[![linkedin](https://linkedin-github.herokuapp.com/api/render/Jiayuan%20Wen/Computer%20Science%20/Student/Bachelor's%20degree/dark/https%3A%2F%2Fmedia-exp1.licdn.com%2Fdms%2Fimage%2FC4E03AQGEAUN3G2_SpQ%2Fprofile-displayphoto-shrink_200_200%2F0%2F1652309331391%3Fe%3D1658966400%26v%3Dbeta%26t%3DR6JgiEJB3Hd5AKIoq8CRyMeD7PA-_IL6mwYO6Ah36-k)](https://www.linkedin.com/in/jiayuanwen/)
 <br>
 <br>
 <br>
