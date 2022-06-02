@@ -3,10 +3,7 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JiayuanWen&layout=compact&hide=c&count_private=false&bg_color=00000000&text_color=777777&border_color=777777)](https://github.com/JiayuanWen/github-readme-stats) \
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) \
-<br>
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1600%2F0*GePc7lo4CF4A3guP.png&f=1&nofb=1" width="25%"></img> \
-[![Leetcode Stats](https://leetcode.card.workers.dev/?username=jiayuanwen&show_rank=false&extension=activity&theme=auto)](https://leetcode.com/jiayuanwen) \
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 <br>
 <br>
 <br>
