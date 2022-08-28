@@ -7,10 +7,6 @@
 <br>
 <br>
 <br>
-[![linkedin](https://linkedin-github.herokuapp.com/api/render/Jiayuan%20Wen/Computer%20Science%20/Student/Bachelor's%20degree/dark/https%3A%2F%2Fmedia-exp1.licdn.com%2Fdms%2Fimage%2FC4E03AQGEAUN3G2_SpQ%2Fprofile-displayphoto-shrink_200_200%2F0%2F1652309331391%3Fe%3D1658966400%26v%3Dbeta%26t%3DR6JgiEJB3Hd5AKIoq8CRyMeD7PA-_IL6mwYO6Ah36-k)](https://www.linkedin.com/in/jiayuanwen/)
-<br>
-<br>
-<br>
 ## 🛠️ Softwares Experiences
 
  [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) 
@@ -33,4 +29,5 @@
 <br>
 <br>
 ## 📬 Contact:
+**LinkedIn:** [Jiayuan Wen](https://www.linkedin.com/in/jiayuanwen/) \
 **Email:** [jbw5872@psu.edu](mailto:jbw5872@psu.edu)
