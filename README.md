@@ -1,3 +1,8 @@
+<p align="center">
+  <img align="center" src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/logo/logal-black.png" width="100px" />
+</p>
+
+
 <h2 align="center">
 Hi, I’m Jiayuan Wen! You can call me Weldon :coffee:
 </h2>
