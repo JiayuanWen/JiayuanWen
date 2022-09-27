@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/logo/logal-black.png" width="100px" />
+  <img align="center" src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/logo/logal-red-purple-green.png" width="150px" />
 </p>
 
 
