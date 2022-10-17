@@ -50,8 +50,9 @@ Studying Computer Science at Penn State Erie: The Behrend College. Love video-ga
 ## :hammer: WIP Projects:
 [![Musiverse Audiosurf 2](https://github-readme-stats.vercel.app/api/pin/?username=jiayuanwen&repo=as2_skin_Musiverse&bg_color=00000000&text_color=777777&border_color=777777)](https://github.com/JiayuanWen/as2_skin_Musiverse)
 
-## :cyclone: Following Repo:
+## :cyclone: Following Repos:
 [![SteamOS HoloISO](https://github-readme-stats.vercel.app/api/pin/?username=theVakhovskeIsTaken&repo=holoiso&bg_color=00000000&text_color=777777&border_color=777777)](https://github.com/theVakhovskeIsTaken/holoiso)
+[![SteamOS HoloISO](https://github-readme-stats.vercel.app/api/pin/?username=newtfire&repo=textEncoding-Hub&bg_color=00000000&text_color=777777&border_color=777777)](https://github.com/newtfire/textEncoding-Hub)
 
 ## 🎓 Education:
 [<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2019%2F06%2FPennsylvania_State_University_Logo.png&f=1&nofb=1" width="30%"></img>](https://www.psu.edu/) \
