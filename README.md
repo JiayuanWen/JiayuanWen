@@ -49,6 +49,7 @@ Studying Computer Science at Penn State Erie: The Behrend College. Love video-ga
 
 ## :hammer: WIP Projects:
 [![Musiverse Audiosurf 2](https://github-readme-stats.vercel.app/api/pin/?username=jiayuanwen&repo=as2_skin_Musiverse&bg_color=00000000&text_color=777777&border_color=777777)](https://github.com/JiayuanWen/as2_skin_Musiverse)
+[![Musiverse Audiosurf 2](https://github-readme-stats.vercel.app/api/pin/?username=jiayuanwen&repo=Gamexihib&bg_color=00000000&text_color=777777&border_color=777777)](https://github.com/JiayuanWen/Gamexihib)
 
 ## :cyclone: Following Repos:
 [![SteamOS HoloISO](https://github-readme-stats.vercel.app/api/pin/?username=theVakhovskeIsTaken&repo=holoiso&bg_color=00000000&text_color=777777&border_color=777777)](https://github.com/theVakhovskeIsTaken/holoiso)
