@@ -8,7 +8,7 @@ Hi, I’m Jiayuan Wen! You can call me Weldon :coffee:
 </h2>
 
 <p align="center">
-Studying Computer Science at Penn State Erie: The Behrend College. Love video-games, art, animation, linux, and VR.
+
 </p>
 
 <h3>
