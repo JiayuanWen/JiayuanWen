@@ -6,9 +6,9 @@
 Hi, I’m Jiayuan Wen! You can call me Weldon :coffee:
 </h2>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=JiayuanWen&theme=graywhite&background=DD272700&border=818181&stroke=A8A8A8&ring=AEFF00&fire=FFBB00&currStreakNum=8E8E8E&sideNums=8E8E8E&currStreakLabel=8E8E8E&sideLabels=8E8E8E&dates=8E8E8E"/>
-</p>
+</p> -->
 
 
 <p align="center">
