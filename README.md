@@ -59,7 +59,7 @@ Hi, I’m Jiayuan Wen! You can call me Weldon :coffee:
 [![More Beasts for Worse Children](https://github-readme-stats.vercel.app/api/pin/?username=jiayuanwen&repo=Belloc-More-Beasts&bg_color=00000000&text_color=777777&border_color=777777)](https://github.com/JiayuanWen/Belloc-More-Beasts)
 
 
-## :cyclone: Following Repos:
+## :cyclone: Following:
 [![SteamOS HoloISO](https://github-readme-stats.vercel.app/api/pin/?username=theVakhovskeIsTaken&repo=holoiso&bg_color=00000000&text_color=777777&border_color=777777)](https://github.com/theVakhovskeIsTaken/holoiso)
 &nbsp;
 [![textEncoding Hub](https://github-readme-stats.vercel.app/api/pin/?username=newtfire&repo=textEncoding-Hub&bg_color=00000000&text_color=777777&border_color=777777)](https://github.com/newtfire/textEncoding-Hub)
