@@ -1,3 +1,8 @@
+<p align="center">
+  <img align="center" src="https://pngimg.com/uploads/christmas_garland/christmas_garland_PNG5.png" width="250px" />
+</p>
+
+
 <h2 align="center">
 Hi, I’m Jiayuan Wen! You can call me Weldon :coffee:
 </h2>
