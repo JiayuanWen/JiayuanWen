@@ -48,26 +48,22 @@ Hi, I’m Jiayuan Wen! You can call me Weldon :coffee:
 &nbsp;
 [![Classic White Audiosurf 2](https://github-readme-stats.vercel.app/api/pin/?username=JiayuanWen&repo=as2_skin_ClassicWhite&bg_color=00000000&text_color=777777&border_color=777777)](https://github.com/JiayuanWen/as2_skin_ClassicWhite)
 
-[![Weldon's Project](https://github-readme-stats.vercel.app/api/pin/?username=Yuying-Jin&repo=CS421proj&bg_color=00000000&text_color=777777&border_color=777777)](https://github.com/Yuying-Jin/CS421proj)
+[![Gamexhibit](https://github-readme-stats.vercel.app/api/pin/?username=jiayuanwen&repo=Gamexihib&bg_color=00000000&text_color=777777&border_color=777777)](https://github.com/JiayuanWen/Gamexihib)
 &nbsp;
 [![Lunam Surface](https://github-readme-stats.vercel.app/api/pin/?username=JiayuanWen&repo=Lunam-Surface&bg_color=00000000&text_color=777777&border_color=777777)](https://github.com/JiayuanWen/Lunam-Surface)
 
 [![SDDM Surgar SteamOS](https://github-readme-stats.vercel.app/api/pin/?username=JiayuanWen&repo=sddm-sugar-steamOS&bg_color=00000000&text_color=777777&border_color=777777)](https://github.com/JiayuanWen/sddm-sugar-steamOS)
 &nbsp;
-[![Keyboard backlight](https://github-readme-stats.vercel.app/api/pin/?username=JiayuanWen&repo=KeyboardBacklight-Breathing-Linux&bg_color=00000000&text_color=777777&border_color=777777)](https://github.com/JiayuanWen/KeyboardBacklight-Breathing-Linux)
+[![Product Tracker](https://github-readme-stats.vercel.app/api/pin/?username=JiayuanWen&repo=ProductTracker&bg_color=00000000&text_color=777777&border_color=777777)](https://github.com/JiayuanWen/KeyboardBacklight-Breathing-Linux)
 
 ## :hammer: WIP Projects:
 [![Musiverse Audiosurf 2](https://github-readme-stats.vercel.app/api/pin/?username=jiayuanwen&repo=as2_skin_Musiverse&bg_color=00000000&text_color=777777&border_color=777777)](https://github.com/JiayuanWen/as2_skin_Musiverse)
 &nbsp;
-[![Gamexhibit](https://github-readme-stats.vercel.app/api/pin/?username=jiayuanwen&repo=Gamexihib&bg_color=00000000&text_color=777777&border_color=777777)](https://github.com/JiayuanWen/Gamexihib)
-
-[![More Beasts for Worse Children](https://github-readme-stats.vercel.app/api/pin/?username=jiayuanwen&repo=Belloc-More-Beasts&bg_color=00000000&text_color=777777&border_color=777777)](https://github.com/JiayuanWen/Belloc-More-Beasts)
-
+[![Mysterious Kart game save editor](https://github-readme-stats.vercel.app/api/pin/?username=jiayuanwen&repo=KartGameDemo-ProfileEditor&bg_color=00000000&text_color=777777&border_color=777777)](https://github.com/JiayuanWen/Campus-Building-Pathfinder-Penn-State-Behrend)
 
 ## :cyclone: Following:
 [![SteamOS HoloISO](https://github-readme-stats.vercel.app/api/pin/?username=theVakhovskeIsTaken&repo=holoiso&bg_color=00000000&text_color=777777&border_color=777777)](https://github.com/theVakhovskeIsTaken/holoiso)
 &nbsp;
-[![textEncoding Hub](https://github-readme-stats.vercel.app/api/pin/?username=newtfire&repo=textEncoding-Hub&bg_color=00000000&text_color=777777&border_color=777777)](https://github.com/newtfire/textEncoding-Hub)
 
 
 ## 🎓 Education:
