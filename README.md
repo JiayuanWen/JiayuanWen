@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" src="https://pngimg.com/uploads/christmas_garland/christmas_garland_PNG5.png" width="250px" />
+  
 </p>
 
 
