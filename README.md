@@ -8,7 +8,7 @@ Hi, I’m Jiayuan Wen! You can call me Weldon :coffee:
 </h2>
 
 <p align="center">
-  <img align="center" src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/logo/logal-red-purple-green.png" width="150px" />
+  <img align="center" src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/logo/logal-gold-red.png" width="150px" />
 </p>
 
 <!-- <p align="center">
