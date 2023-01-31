@@ -61,6 +61,10 @@ Hi, I’m Jiayuan Wen! You can call me Weldon :coffee:
 &nbsp;
 [![Mysterious Kart game save editor](https://github-readme-stats.vercel.app/api/pin/?username=jiayuanwen&repo=KartGameDemo-ProfileEditor&bg_color=00000000&text_color=777777&border_color=777777)](https://github.com/JiayuanWen/Campus-Building-Pathfinder-Penn-State-Behrend)
 
+[![Product Tracker App](https://github-readme-stats.vercel.app/api/pin/?username=jiayuanwen&repo=ProductTracker&bg_color=00000000&text_color=777777&border_color=777777)](https://github.com/JiayuanWen/Campus-Building-Pathfinder-Penn-State-Behrend)
+&nbsp;
+[![Gamexhibit](https://github-readme-stats.vercel.app/api/pin/?username=jiayuanwen&repo=Gamexihib&bg_color=00000000&text_color=777777&border_color=777777)](https://github.com/JiayuanWen/Campus-Building-Pathfinder-Penn-State-Behrend)
+
 ## :cyclone: Following:
 [![SteamOS HoloISO](https://github-readme-stats.vercel.app/api/pin/?username=theVakhovskeIsTaken&repo=holoiso&bg_color=00000000&text_color=777777&border_color=777777)](https://github.com/theVakhovskeIsTaken/holoiso)
 &nbsp;
