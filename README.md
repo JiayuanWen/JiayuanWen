@@ -54,16 +54,12 @@ Hi, I’m Jiayuan Wen! You can call me Weldon :coffee:
 
 [![SDDM Surgar SteamOS](https://github-readme-stats.vercel.app/api/pin/?username=JiayuanWen&repo=sddm-sugar-steamOS&bg_color=00000000&text_color=777777&border_color=777777)](https://github.com/JiayuanWen/sddm-sugar-steamOS)
 &nbsp;
-[![Product Tracker](https://github-readme-stats.vercel.app/api/pin/?username=JiayuanWen&repo=ProductTracker&bg_color=00000000&text_color=777777&border_color=777777)](https://github.com/JiayuanWen/KeyboardBacklight-Breathing-Linux)
+[![Product Tracker](https://github-readme-stats.vercel.app/api/pin/?username=JiayuanWen&repo=ProductTracker&bg_color=00000000&text_color=777777&border_color=777777)](https://github.com/JiayuanWen/ProductTracker)
 
 ## :hammer: WIP Projects:
 [![Musiverse Audiosurf 2](https://github-readme-stats.vercel.app/api/pin/?username=jiayuanwen&repo=as2_skin_Musiverse&bg_color=00000000&text_color=777777&border_color=777777)](https://github.com/JiayuanWen/as2_skin_Musiverse)
 &nbsp;
 [![Mysterious Kart game save editor](https://github-readme-stats.vercel.app/api/pin/?username=jiayuanwen&repo=KartGameDemo-ProfileEditor&bg_color=00000000&text_color=777777&border_color=777777)](https://github.com/JiayuanWen/Campus-Building-Pathfinder-Penn-State-Behrend)
-
-[![Product Tracker App](https://github-readme-stats.vercel.app/api/pin/?username=jiayuanwen&repo=ProductTracker&bg_color=00000000&text_color=777777&border_color=777777)](https://github.com/JiayuanWen/Campus-Building-Pathfinder-Penn-State-Behrend)
-&nbsp;
-[![Gamexhibit](https://github-readme-stats.vercel.app/api/pin/?username=jiayuanwen&repo=Gamexihib&bg_color=00000000&text_color=777777&border_color=777777)](https://github.com/JiayuanWen/Campus-Building-Pathfinder-Penn-State-Behrend)
 
 ## :cyclone: Following:
 [![SteamOS HoloISO](https://github-readme-stats.vercel.app/api/pin/?username=theVakhovskeIsTaken&repo=holoiso&bg_color=00000000&text_color=777777&border_color=777777)](https://github.com/theVakhovskeIsTaken/holoiso)
