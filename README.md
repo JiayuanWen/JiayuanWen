@@ -64,7 +64,7 @@ Hi, I’m Jiayuan Wen! You can call me Weldon :coffee:
 ## :cyclone: Following:
 [![SteamOS HoloISO](https://github-readme-stats.vercel.app/api/pin/?username=theVakhovskeIsTaken&repo=holoiso&bg_color=00000000&text_color=777777&border_color=777777)](https://github.com/theVakhovskeIsTaken/holoiso)
 &nbsp;
-
+[![SteamOS HoloISO](https://github-readme-stats.vercel.app/api/pin/?username=aunetx&repo=blur-my-shell&bg_color=00000000&text_color=777777&border_color=777777)](https://github.com/aunetx/blur-my-shell)
 
 ## 🎓 Education:
 [<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2019%2F06%2FPennsylvania_State_University_Logo.png&f=1&nofb=1" width="30%"></img>](https://www.psu.edu/) \
