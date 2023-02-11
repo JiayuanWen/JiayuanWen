@@ -48,7 +48,7 @@ Hi, I’m Jiayuan Wen! You can call me Weldon :coffee:
 &nbsp;
 [![Classic White Audiosurf 2](https://github-readme-stats.vercel.app/api/pin/?username=JiayuanWen&repo=as2_skin_ClassicWhite&bg_color=00000000&text_color=777777&border_color=777777)](https://github.com/JiayuanWen/as2_skin_ClassicWhite)
 
-[![Gamexhibit](https://github-readme-stats.vercel.app/api/pin/?username=jiayuanwen&repo=Gamexihib&bg_color=00000000&text_color=777777&border_color=777777)](https://github.com/JiayuanWen/Gamexihib)
+[![Belloc More Beasts](https://github-readme-stats.vercel.app/api/pin/?username=jiayuanwen&repo=Belloc-More-Beasts&bg_color=00000000&text_color=777777&border_color=777777)](https://github.com/JiayuanWen/Belloc-More-Beasts)
 &nbsp;
 [![Lunam Surface](https://github-readme-stats.vercel.app/api/pin/?username=JiayuanWen&repo=Lunam-Surface&bg_color=00000000&text_color=777777&border_color=777777)](https://github.com/JiayuanWen/Lunam-Surface)
 
