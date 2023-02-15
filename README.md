@@ -32,6 +32,7 @@ Hi, I’m Jiayuan Wen! You can call me Weldon :coffee:
 <br/>
 <br/>
 
+
 ## 🛠️ Experiences
 
  [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) 
@@ -42,7 +43,7 @@ Hi, I’m Jiayuan Wen! You can call me Weldon :coffee:
 [![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)](https://krita.org/) 
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JiayuanWen&layout=compact&count_private=false&langs_count=10&hide=css,ejs&exclude_repo=as2_skin_ClassicWhite&bg_color=00000000&text_color=777777&border_color=777777)](https://github.com/JiayuanWen/github-readme-stats)
-
+<!--
 ## :star: Project Highlight:
 [![Campus Building Pathfinder](https://github-readme-stats.vercel.app/api/pin/?username=jiayuanwen&repo=Campus-Building-Pathfinder-Penn-State-Behrend&bg_color=00000000&text_color=777777&border_color=777777)](https://github.com/JiayuanWen/Campus-Building-Pathfinder-Penn-State-Behrend)
 &nbsp;
@@ -65,6 +66,7 @@ Hi, I’m Jiayuan Wen! You can call me Weldon :coffee:
 [![SteamOS HoloISO](https://github-readme-stats.vercel.app/api/pin/?username=theVakhovskeIsTaken&repo=holoiso&bg_color=00000000&text_color=777777&border_color=777777)](https://github.com/theVakhovskeIsTaken/holoiso)
 &nbsp;
 [![SteamOS HoloISO](https://github-readme-stats.vercel.app/api/pin/?username=aunetx&repo=blur-my-shell&bg_color=00000000&text_color=777777&border_color=777777)](https://github.com/aunetx/blur-my-shell)
+-->
 
 ## 🎓 Education:
 [<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2019%2F06%2FPennsylvania_State_University_Logo.png&f=1&nofb=1" width="30%"></img>](https://www.psu.edu/) \
