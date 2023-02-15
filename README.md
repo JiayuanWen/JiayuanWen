@@ -1,5 +1,5 @@
 <p align="center">
-  
+  <img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/holiday/zhonghe_fes_1.png" width="210px" />
 </p>
 
 
