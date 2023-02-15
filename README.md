@@ -74,6 +74,6 @@ Hi, I’m Jiayuan Wen! You can call me Weldon :coffee:
 <br>
 **Institution:** Penn State Erie: The Behrend College \
 **Major:** Computer Science \
-**GPA (Cumulative):** 3.10 \
-**GPA (Major):** 3.17
+**GPA (Cumulative):** 3.19 \
+**GPA (Major):** 3.23
 <br>
