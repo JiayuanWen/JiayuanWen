@@ -8,7 +8,7 @@ Hi, I’m Jiayuan Wen! You can call me Weldon :coffee:
 </h2>
 
 <p align="center">
-  <img align="center" src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/logo/logal-gold-red.png" width="150px" />
+  <img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/logo/logal-gold-red.png" width="150px" />
 </p>
 
 <!-- <p align="center">
@@ -24,10 +24,10 @@ Hi, I’m Jiayuan Wen! You can call me Weldon :coffee:
 📬 Contact Me:
 </h3>
 <a href="https://www.linkedin.com/in/jiayuanwen/">
-  <img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.png" width="31px" />
+  <img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.png" width="31px" />
 </a> &emsp;
 <a href="mailto:jbw5872@psu.edu">
-  <img align="center" src="https://imgs.search.brave.com/Ke_rbJKKyoLSLzXEnjyo99HzWfBAmIhUntlDFW6yH8I/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93d3cu/cGl0dHN0YXRlLmVk/dS9pdC9fZmlsZXMv/aW1hZ2VzLzEyMDBw/eC1taWNyb3NvZnRf/b2ZmaWNlX291dGxv/b2tfMjAxOHByZXNl/bnQucG5n" width="31px" />
+  <img src="https://imgs.search.brave.com/Ke_rbJKKyoLSLzXEnjyo99HzWfBAmIhUntlDFW6yH8I/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93d3cu/cGl0dHN0YXRlLmVk/dS9pdC9fZmlsZXMv/aW1hZ2VzLzEyMDBw/eC1taWNyb3NvZnRf/b2ZmaWNlX291dGxv/b2tfMjAxOHByZXNl/bnQucG5n" width="31px" />
 </a>
 <br/>
 <br/>
@@ -35,23 +35,25 @@ Hi, I’m Jiayuan Wen! You can call me Weldon :coffee:
 
 ## 🛠️ Experiences
 
- [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) 
-[![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio) 
-[![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)](https://www.jetbrains.com/webstorm/) 
-[![Unity](https://img.shields.io/badge/Unity-143?style=for-the-badge&logo=unity&logoColor=white&color=black)](https://unity.com/) 
-[![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/) 
-[![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)](https://krita.org/) 
-
 <!--
 ![Jiayuan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JiayuanWen&layout=compact&count_private=false&langs_count=10&hide=css,ejs&exclude_repo=as2_skin_ClassicWhite&bg_color=00000000&text_color=777777&border_color=777777)
 -->
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiayuanWen&layout=compact&count_private=false&langs_count=10&hide=css,ejs&exclude_repo=as2_skin_ClassicWhite&bg_color=00000000&text_color=777777&border_color=777777" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jiayuanwen&show_icons=true&bg_color=00000000&text_color=777777&border_color=777777" />
-</p>
 <!--
 ![Jiayuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiayuanwen&show_icons=true&bg_color=00000000&text_color=777777&border_color=777777)
 -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiayuanWen&layout=compact&count_private=false&langs_count=10&hide=css,ejs&exclude_repo=as2_skin_ClassicWhite&bg_color=00000000&text_color=777777&border_color=777777" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jiayuanwen&show_icons=true&bg_color=00000000&text_color=777777&border_color=777777" />
+</p>
+
+<p align="center">
+    <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>
+    <a href="https://developer.android.com/studio"><img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" /></a>
+    <a href="https://www.jetbrains.com/webstorm/"><img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white" /></a>
+    <a href="https://unity.com/"><img src="https://img.shields.io/badge/Unity-143?style=for-the-badge&logo=unity&logoColor=black&color=white" /></a>
+    <a href="https://www.blender.org/"><img src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" /></a>
+    <a href="https://krita.org/"><img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B" /></a>
+</p>
 
 <!--
 ## :star: Project Highlight:
