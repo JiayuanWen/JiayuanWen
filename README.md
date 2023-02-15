@@ -42,7 +42,8 @@ Hi, I’m Jiayuan Wen! You can call me Weldon :coffee:
 [![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/) 
 [![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)](https://krita.org/) 
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JiayuanWen&layout=compact&count_private=false&langs_count=10&hide=css,ejs&exclude_repo=as2_skin_ClassicWhite&bg_color=00000000&text_color=777777&border_color=777777)](https://github.com/JiayuanWen/github-readme-stats)
+![Jiayuan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JiayuanWen&layout=compact&count_private=false&langs_count=10&hide=css,ejs&exclude_repo=as2_skin_ClassicWhite&bg_color=00000000&text_color=777777&border_color=777777)
+![Jiayuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiayuanwen&show_icons=true&bg_color=00000000&text_color=777777&border_color=777777)
 <!--
 ## :star: Project Highlight:
 [![Campus Building Pathfinder](https://github-readme-stats.vercel.app/api/pin/?username=jiayuanwen&repo=Campus-Building-Pathfinder-Penn-State-Behrend&bg_color=00000000&text_color=777777&border_color=777777)](https://github.com/JiayuanWen/Campus-Building-Pathfinder-Penn-State-Behrend)
