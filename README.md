@@ -42,8 +42,8 @@ Hi, I’m Jiayuan Wen! You can call me Weldon :coffee:
 ![Jiayuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiayuanwen&show_icons=true&bg_color=00000000&text_color=777777&border_color=777777)
 -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiayuanWen&layout=compact&count_private=false&langs_count=10&hide=css,ejs&exclude_repo=as2_skin_ClassicWhite&bg_color=00000000&text_color=c1c700&border_color=ff0000&title_color=ff0000&icon_color=f8ff00" />
-  <img src="https://github-readme-stats.vercel.app/api?username=jiayuanwen&include_all_commits=true&count_private=true&show_icons=true&bg_color=00000000&text_color=c1c700&border_color=ff0000&title_color=ff0000&icon_color=f8ff00" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiayuanWen&layout=compact&count_private=false&langs_count=10&hide=css,ejs&exclude_repo=as2_skin_ClassicWhite&bg_color=00000000&text_color=9da200&border_color=ff0000&title_color=ff0000&icon_color=f8ff00" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jiayuanwen&include_all_commits=true&count_private=true&show_icons=true&bg_color=00000000&text_color=9da200&border_color=ff0000&title_color=ff0000&icon_color=f8ff00" />
 </p>
 
 <p align="center">
