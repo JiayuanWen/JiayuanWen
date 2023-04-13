@@ -52,11 +52,11 @@ Hi, I’m Jiayuan Wen! You can call me Weldon :coffee:
 </p>
 
 <p align="center">
-    <a href="https://code.visualstudio.com/"><img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/exprience/icons/visual-studio-code.png"  style="width: 50px" /></a>
-    <a href="https://developer.android.com/studio"><img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/exprience/icons/android-studio.png"  style="width: 50px" /></a>
-    <a href="https://www.jetbrains.com/webstorm/"><img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/exprience/icons/webstorm.png"  style="width: 50px" /></a>
-    <a href="https://unity.com/"><img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/exprience/icons/unity-engine.png"  style="width: 50px" /></a>
-    <a href="https://www.blender.org/"><img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/exprience/icons/blender.png"  style="width: 50px" /></a>
+    <a href="https://code.visualstudio.com/"><img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/exprience/icons/visual-studio-code.png"  style="width: 50px;" /></a> &emsp;&nbsp;
+    <a href="https://developer.android.com/studio"><img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/exprience/icons/android-studio.png"  style="width: 50px" /></a> &emsp;&nbsp;
+    <a href="https://www.jetbrains.com/webstorm/"><img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/exprience/icons/webstorm.png"  style="width: 50px" /></a> &emsp;&nbsp;
+    <a href="https://unity.com/"><img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/exprience/icons/unity-engine.png"  style="width: 50px" /></a> &emsp;&nbsp;
+    <a href="https://www.blender.org/"><img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/exprience/icons/blender.png"  style="width: 50px" /></a> &emsp;&nbsp;
     <a href="https://krita.org/"><img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/exprience/icons/krita.png"  style="width: 50px" /></a>
 </p>
 
