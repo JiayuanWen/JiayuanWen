@@ -52,12 +52,12 @@ Hi, I’m Jiayuan Wen! You can call me Weldon :coffee:
 </p>
 
 <p align="center">
-    <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>
-    <a href="https://developer.android.com/studio"><img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" /></a>
-    <a href="https://www.jetbrains.com/webstorm/"><img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white" /></a>
-    <a href="https://unity.com/"><img src="https://img.shields.io/badge/Unity-143?style=for-the-badge&logo=unity&logoColor=black&color=white" /></a>
-    <a href="https://www.blender.org/"><img src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" /></a>
-    <a href="https://krita.org/"><img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B" /></a>
+    <a href="https://code.visualstudio.com/"><img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/exprience/icons/visual-studio-code.png"  style="width: 50px" /></a>
+    <a href="https://developer.android.com/studio"><img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/exprience/icons/android-studio.png"  style="width: 50px" /></a>
+    <a href="https://www.jetbrains.com/webstorm/"><img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/exprience/icons/webstorm.png"  style="width: 50px" /></a>
+    <a href="https://unity.com/"><img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/exprience/icons/unity-engine.png"  style="width: 50px" /></a>
+    <a href="https://www.blender.org/"><img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/exprience/icons/blender.png"  style="width: 50px" /></a>
+    <a href="https://krita.org/"><img src="<img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/exprience/icons/krita.png"  style="width: 50px" />" /></a>
 </p>
 
 <!--
