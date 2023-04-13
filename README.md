@@ -6,7 +6,12 @@
 <h2 align="center">
 Hi, I’m Jiayuan Wen! You can call me Weldon :coffee:
 </h2>
-
+<p align="center">
+  Computer Science major at Penn State Erie: The Behrend College. 
+</p>
+<p align="center">
+  Love Art and Animation. Fan of rhythm and story-driven games. Currently waiting for Gabe to count to 3.
+</p>
 <p align="center">
   <!--<img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/logo/logal-gold-red.png" width="150px" /> &nbsp; </p> -->
 </p>
@@ -80,7 +85,7 @@ Hi, I’m Jiayuan Wen! You can call me Weldon :coffee:
 [![SteamOS HoloISO](https://github-readme-stats.vercel.app/api/pin/?username=aunetx&repo=blur-my-shell&bg_color=00000000&text_color=777777&border_color=777777)](https://github.com/aunetx/blur-my-shell)
 -->
 
-<!--
+
 ## 🎓 Education:
 [<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2019%2F06%2FPennsylvania_State_University_Logo.png&f=1&nofb=1" width="30%"></img>](https://www.psu.edu/) \
 <br>
@@ -89,4 +94,4 @@ Hi, I’m Jiayuan Wen! You can call me Weldon :coffee:
 **GPA (Cumulative):** 3.19 \
 **GPA (Major):** 3.23
 <br>
--->
+
