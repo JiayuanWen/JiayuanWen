@@ -46,7 +46,7 @@ Hi, I’m Jiayuan Wen! You can call me Weldon :coffee:
     <a href="https://www.blender.org/"><img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/exprience/icons/blender.png"  style="width: 50px" /></a> &emsp;&nbsp;
     <a href="https://krita.org/"><img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/exprience/icons/krita.png"  style="width: 50px" /></a>
 </p>
-<p align="center">
+<p align="left">
   💻 Currently working on: <a href="https://5772-75-102-72-225.ngrok-free.app/"><b>WebXR for Public Engagement<b/><a/>
 </p>
 
