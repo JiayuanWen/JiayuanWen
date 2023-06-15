@@ -35,7 +35,9 @@ Hi, I’m Jiayuan Wen! You can call me Weldon :coffee:
 -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiayuanWen&layout=compact&count_private=true&langs_count=10&hide=css,ejs,html&exclude_repo=jiayuanwen.github.io&bg_color=-45,ff8800,faff00&text_color=e50000&border_color=00000000&title_color=e50000&icon_color=f8ff00" />
+  <!--
   <img src="https://github-readme-stats.vercel.app/api?username=jiayuanwen&include_all_commits=true&count_private=trie&show_icons=true&bg_color=-45,ff0000,ff8800&text_color=e2dc00&border_color=00000000&title_color=fff900&icon_color=f8ff00" />
+  -->
 </p>
 
 <p align="center">
