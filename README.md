@@ -86,8 +86,8 @@ Hi, I’m Jiayuan Wen! You can call me Weldon :coffee:
 <a href="https://www.linkedin.com/in/jiayuanwen/">
   <img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.png" width="31px" />
 </a> &emsp;
-<a href="mailto:jbw5872@psu.edu">
-  <img src="https://imgs.search.brave.com/Ke_rbJKKyoLSLzXEnjyo99HzWfBAmIhUntlDFW6yH8I/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93d3cu/cGl0dHN0YXRlLmVk/dS9pdC9fZmlsZXMv/aW1hZ2VzLzEyMDBw/eC1taWNyb3NvZnRf/b2ZmaWNlX291dGxv/b2tfMjAxOHByZXNl/bnQucG5n" width="31px" />
+<a href="mailto:wenjiaxiaoyuan@gmail.com">
+  <img src="https://www.pngmart.com/files/16/Gmail-Logo-PNG-Transparent-Image.png" width="31px" />
 </a>
 <br/>
 <br/>
