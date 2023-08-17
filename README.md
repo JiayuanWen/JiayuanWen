@@ -7,7 +7,7 @@
 Hi, I’m Jiayuan Wen! You can call me Weldon :coffee:
 </h2>
 <p align="center">
-  Computer Science major at Penn State Erie: The Behrend College. 
+  Computer Science B.S. from Pennsylvania State University. 
 </p>
 <p align="center">
   Love Art and Animation, dream of becoming an animator or VFX artist. Fan of rhythm and story-driven games. VR/AR and Linux enthusiast. Currently waiting for Gabe to count to 3.
