@@ -21,7 +21,7 @@ Hi, I’m Jiayuan Wen! You can call me Weldon :coffee:
 
 
 <p align="center">
-  <b>My Site:</b> https://jiayuanwen.github.io/ (WIP)
+  <b>My Site:</b> https://jiayuanwen.github.io/
 </p>
 
 
