@@ -10,7 +10,7 @@ Hi, I’m Jiayuan Wen! You can call me Weldon :coffee:
   Computer Science B.S. from Pennsylvania State University. 
 </p>
 <p align="center">
-  Love Art and Animation, dream of becoming an animator or VFX artist. Fan of rhythm and story-driven games. VR/AR and Linux enthusiast. Currently waiting for Gabe to count to 3.
+  VR/AR and Linux enthusiast. Love Art and VFX. Waiting for Gabe to count to 3.
 </p>
 <p align="center">
   <!--<img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/logo/logal-gold-red.png" width="150px" /> &nbsp; </p> -->
