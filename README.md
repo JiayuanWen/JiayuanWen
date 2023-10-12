@@ -83,12 +83,16 @@ Hi, I’m Jiayuan Wen! You can call me Weldon :coffee:
 <h3>
 📬 Contact Me:
 </h3>
-<a href="https://www.linkedin.com/in/jiayuanwen/">
-  <img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.png" width="31px" />
-</a> &emsp;
-<a href="mailto:wenjiaxiaoyuan@gmail.com">
-  <img src="https://www.pngmart.com/files/16/Gmail-Logo-PNG-Transparent-Image.png" width="31px" />
-</a>
+<p>
+  <a href="https://www.linkedin.com/in/jiayuanwen/">
+    <img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.png" width="18px" /> Jiayuan "Weldon" Wen
+  </a>
+</p>
+<p>
+  <a href="mailto:wenjiaxiaoyuan@gmail.com">
+    <img src="https://www.pngmart.com/files/16/Gmail-Logo-PNG-Transparent-Image.png" width="18px" /> wenjiaxiaoyuan@gmail.com
+  </a>
+</p>
 <br/>
 <br/>
 
