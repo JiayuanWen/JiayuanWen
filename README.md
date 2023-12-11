@@ -59,7 +59,7 @@ Hi, I’m Jiayuan Wen! You can call me Weldon :coffee:
 </h2>
 <div align="center">
   <pre>
-  <img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.png" width="20px" /> LinkedIn:                     <img src="https://www.pngmart.com/files/16/Gmail-Logo-PNG-Transparent-Image.png" width="20px" /> Email: <br/>
+  <img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.png" width="25px" /> LinkedIn:                     <img src="https://www.pngmart.com/files/16/Gmail-Logo-PNG-Transparent-Image.png" width="25px" /> Email: <br/>
     <a href="https://www.linkedin.com/in/jiayuanwen/">Jiayuan "Weldon" Wen</a>          <a href="mailto:wenjiaxiaoyuan@gmail.com">wenjiaxiaoyuan@gmail.com</a>
   </pre>
   
