@@ -51,23 +51,22 @@ Hi, I’m Jiayuan Wen! You can call me Weldon :coffee:
 <h3 align="center">
   <a href="https://github.com/stars/JiayuanWen/lists/computer-projects">:computer: My Projects</a>
   •
-  <a href="https://github.com/stars/JiayuanWen/lists/computer-projects">:alembic: Experiments</a>
+  <a href="https://github.com/stars/JiayuanWen/lists/experimentation">:alembic: Experiments</a>
 </h3>
 
 <h2>
 📬 Contact Me:
 </h2>
-<div align="left">
-  <img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.png" width="20px" /> LinkedIn:
-  <a href="https://www.linkedin.com/in/jiayuanwen/">
-     <br/> Jiayuan "Weldon" Wen
-  </a>
+<div align="center">
+  <pre>
+  <img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.png" width="20px" /> LinkedIn:                     <img src="https://www.pngmart.com/files/16/Gmail-Logo-PNG-Transparent-Image.png" width="20px" /> Email: <br/>
+    <a href="https://www.linkedin.com/in/jiayuanwen/">Jiayuan "Weldon" Wen</a>          <a href="mailto:wenjiaxiaoyuan@gmail.com">wenjiaxiaoyuan@gmail.com</a>
+  </pre>
+  
   <br/> 
   <br/> 
-  <img src="https://www.pngmart.com/files/16/Gmail-Logo-PNG-Transparent-Image.png" width="20px" /> Email:
-  <a href="mailto:wenjiaxiaoyuan@gmail.com">
-     <br/> wenjiaxiaoyuan@gmail.com
-  </a>
+  
+  
 </div>
 
 
