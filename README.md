@@ -19,9 +19,9 @@ Hi, I’m Jiayuan Wen! You can call me Weldon :coffee:
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=JiayuanWen&theme=graywhite&background=DD272700&border=818181&stroke=A8A8A8&ring=AEFF00&fire=FFBB00&currStreakNum=8E8E8E&sideNums=8E8E8E&currStreakLabel=8E8E8E&sideLabels=8E8E8E&dates=8E8E8E"/> -->
 </p> 
 
-<p align="center">
+<h4 align="center">
   <b>My Site:</b> https://jiayuanwen.github.io/
-</p>
+</h4>
 
 
 ## 🛠️ Experiences
