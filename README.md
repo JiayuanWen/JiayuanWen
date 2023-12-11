@@ -38,7 +38,7 @@ Hi, I’m Jiayuan Wen! You can call me Weldon :coffee:
   <img src="https://github-readme-stats.vercel.app/api?username=jiayuanwen&include_all_commits=true&count_private=trie&show_icons=true&bg_color=-45,ff0000,ff8800&text_color=e2dc00&border_color=00000000&title_color=fff900&icon_color=f8ff00" />
   -->
 </p>
-
+<!--
 <p align="center">
     <a href="https://code.visualstudio.com/"><img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/exprience/icons/visual-studio-code.png"  style="width: 50px;" /></a> &emsp;&nbsp;
     <a href="https://developer.android.com/studio"><img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/exprience/icons/android-studio.png"  style="width: 50px" /></a> &emsp;&nbsp;
@@ -47,24 +47,32 @@ Hi, I’m Jiayuan Wen! You can call me Weldon :coffee:
     <a href="https://www.blender.org/"><img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/exprience/icons/blender.png"  style="width: 50px" /></a> &emsp;&nbsp;
     <a href="https://www.adobe.com/products/photoshop.html?promoid=RBS7NL7F&mv=other"><img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/exprience/icons/photoshop.png"  style="width: 50px" /></a>
 </p>
+-->
 <h3 align="center">
   <a href="https://github.com/stars/JiayuanWen/lists/computer-projects">:computer: My Projects</a>
   •
   <a href="https://github.com/stars/JiayuanWen/lists/computer-projects">:alembic: Experiments</a>
 </h3>
 
-<h3>
+<h2>
 📬 Contact Me:
-</h3>
-<p align="center">
+</h2>
+<div align="left">
+  <img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.png" width="20px" /> LinkedIn:
   <a href="https://www.linkedin.com/in/jiayuanwen/">
-    <img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.png" width="18px" /> Jiayuan "Weldon" Wen
+     <br/> Jiayuan "Weldon" Wen
   </a>
-</p>
-<p>
+  <br/> 
+  <br/> 
+  <img src="https://www.pngmart.com/files/16/Gmail-Logo-PNG-Transparent-Image.png" width="20px" /> Email:
   <a href="mailto:wenjiaxiaoyuan@gmail.com">
-    <img src="https://www.pngmart.com/files/16/Gmail-Logo-PNG-Transparent-Image.png" width="18px" /> wenjiaxiaoyuan@gmail.com
+     <br/> wenjiaxiaoyuan@gmail.com
   </a>
+</div>
+
+
+<p>
+ 
 </p>
 <br/>
 <br/>
