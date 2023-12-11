@@ -19,7 +19,6 @@ Hi, I’m Jiayuan Wen! You can call me Weldon :coffee:
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=JiayuanWen&theme=graywhite&background=DD272700&border=818181&stroke=A8A8A8&ring=AEFF00&fire=FFBB00&currStreakNum=8E8E8E&sideNums=8E8E8E&currStreakLabel=8E8E8E&sideLabels=8E8E8E&dates=8E8E8E"/> -->
 </p> 
 
-
 <p align="center">
   <b>My Site:</b> https://jiayuanwen.github.io/
 </p>
@@ -48,42 +47,16 @@ Hi, I’m Jiayuan Wen! You can call me Weldon :coffee:
     <a href="https://www.blender.org/"><img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/exprience/icons/blender.png"  style="width: 50px" /></a> &emsp;&nbsp;
     <a href="https://www.adobe.com/products/photoshop.html?promoid=RBS7NL7F&mv=other"><img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/exprience/icons/photoshop.png"  style="width: 50px" /></a>
 </p>
-
-<!--
-<p align="left">
-  💻 Currently working on: <a href="https://5772-75-102-72-225.ngrok-free.app/"><b>WebXR for Public Engagement<b/><a/>
-</p>
--->
-
-<!--
-## :star: Project Highlight:
-[![Campus Building Pathfinder](https://github-readme-stats.vercel.app/api/pin/?username=jiayuanwen&repo=Campus-Building-Pathfinder-Penn-State-Behrend&bg_color=00000000&text_color=777777&border_color=777777)](https://github.com/JiayuanWen/Campus-Building-Pathfinder-Penn-State-Behrend)
-&nbsp;
-[![Classic White Audiosurf 2](https://github-readme-stats.vercel.app/api/pin/?username=JiayuanWen&repo=as2_skin_ClassicWhite&bg_color=00000000&text_color=777777&border_color=777777)](https://github.com/JiayuanWen/as2_skin_ClassicWhite)
-
-[![CS421proj](https://github-readme-stats.vercel.app/api/pin/?username=Yuying-Jin&repo=CS421proj&bg_color=00000000&text_color=777777&border_color=777777)](https://github.com/Yuying-Jin/CS421proj)
-&nbsp;
-[![Lunam Surface](https://github-readme-stats.vercel.app/api/pin/?username=JiayuanWen&repo=Lunam-Surface&bg_color=00000000&text_color=777777&border_color=777777)](https://github.com/JiayuanWen/Lunam-Surface)
-
-[![SDDM Surgar SteamOS](https://github-readme-stats.vercel.app/api/pin/?username=JiayuanWen&repo=sddm-sugar-steamOS&bg_color=00000000&text_color=777777&border_color=777777)](https://github.com/JiayuanWen/sddm-sugar-steamOS)
-&nbsp;
-[![Product Tracker](https://github-readme-stats.vercel.app/api/pin/?username=JiayuanWen&repo=ProductTracker&bg_color=00000000&text_color=777777&border_color=777777)](https://github.com/JiayuanWen/ProductTracker)
-
-## :hammer: WIP Projects:
-[![Musiverse Audiosurf 2](https://github-readme-stats.vercel.app/api/pin/?username=jiayuanwen&repo=as2_skin_Musiverse&bg_color=00000000&text_color=777777&border_color=777777)](https://github.com/JiayuanWen/as2_skin_Musiverse)
-&nbsp;
-[![Mysterious Kart game save editor](https://github-readme-stats.vercel.app/api/pin/?username=jiayuanwen&repo=KartGameDemo-ProfileEditor&bg_color=00000000&text_color=777777&border_color=777777)](https://github.com/JiayuanWen/Campus-Building-Pathfinder-Penn-State-Behrend)
-
-## :cyclone: Following:
-[![SteamOS HoloISO](https://github-readme-stats.vercel.app/api/pin/?username=theVakhovskeIsTaken&repo=holoiso&bg_color=00000000&text_color=777777&border_color=777777)](https://github.com/theVakhovskeIsTaken/holoiso)
-&nbsp;
-[![SteamOS HoloISO](https://github-readme-stats.vercel.app/api/pin/?username=aunetx&repo=blur-my-shell&bg_color=00000000&text_color=777777&border_color=777777)](https://github.com/aunetx/blur-my-shell)
--->
+<h3 align="center">
+  <a href="https://github.com/stars/JiayuanWen/lists/computer-projects">:computer: My Projects</a>
+  •
+  <a href="https://github.com/stars/JiayuanWen/lists/computer-projects">:alembic: Experiments</a>
+</h3>
 
 <h3>
 📬 Contact Me:
 </h3>
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/jiayuanwen/">
     <img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.png" width="18px" /> Jiayuan "Weldon" Wen
   </a>
