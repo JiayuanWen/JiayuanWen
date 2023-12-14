@@ -26,9 +26,14 @@ Hi, I’m Jiayuan Wen! You can call me Weldon :coffee:
 
 ## 🛠️ Experiences
 
-<!--
-![Jiayuan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JiayuanWen&layout=compact&count_private=false&langs_count=10&hide=css,ejs&exclude_repo=as2_skin_ClassicWhite&bg_color=00000000&text_color=777777&border_color=777777)
--->
+<p align="center">
+    <a href="https://code.visualstudio.com/"><img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/exprience/icons/visual-studio-code.png"  style="width: 50px;" /></a> &emsp;&nbsp;
+    <a href="https://developer.android.com/studio"><img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/exprience/icons/android-studio.png"  style="width: 50px" /></a> &emsp;&nbsp;
+    <a href="https://www.jetbrains.com/webstorm/"><img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/exprience/icons/webstorm.png"  style="width: 50px" /></a> &emsp;&nbsp;
+    <a href="https://unity.com/"><img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/exprience/icons/unity.png"  style="width: 50px" /></a> &emsp;&nbsp;
+    <a href="https://www.blender.org/"><img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/exprience/icons/blender.png"  style="width: 50px" /></a> &emsp;&nbsp;
+    <a href="https://www.adobe.com/products/photoshop.html?promoid=RBS7NL7F&mv=other"><img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/exprience/icons/photoshop.png"  style="width: 50px" /></a>
+</p>
 <!--
 ![Jiayuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiayuanwen&show_icons=true&bg_color=00000000&text_color=777777&border_color=777777)
 -->
@@ -38,16 +43,7 @@ Hi, I’m Jiayuan Wen! You can call me Weldon :coffee:
   <img src="https://github-readme-stats.vercel.app/api?username=jiayuanwen&include_all_commits=true&count_private=trie&show_icons=true&bg_color=-45,ff0000,ff8800&text_color=e2dc00&border_color=00000000&title_color=fff900&icon_color=f8ff00" />
   -->
 </p>
-<!--
-<p align="center">
-    <a href="https://code.visualstudio.com/"><img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/exprience/icons/visual-studio-code.png"  style="width: 50px;" /></a> &emsp;&nbsp;
-    <a href="https://developer.android.com/studio"><img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/exprience/icons/android-studio.png"  style="width: 50px" /></a> &emsp;&nbsp;
-    <a href="https://www.jetbrains.com/webstorm/"><img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/exprience/icons/webstorm.png"  style="width: 50px" /></a> &emsp;&nbsp;
-    <a href="https://unity.com/"><img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/exprience/icons/unity.png"  style="width: 50px" /></a> &emsp;&nbsp;
-    <a href="https://www.blender.org/"><img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/exprience/icons/blender.png"  style="width: 50px" /></a> &emsp;&nbsp;
-    <a href="https://www.adobe.com/products/photoshop.html?promoid=RBS7NL7F&mv=other"><img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/exprience/icons/photoshop.png"  style="width: 50px" /></a>
-</p>
--->
+
 <h3 align="center">
   <a href="https://github.com/stars/JiayuanWen/lists/computer-projects">:computer: My Projects</a>
   •
