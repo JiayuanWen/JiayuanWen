@@ -27,6 +27,15 @@ Hi, I’m Jiayuan Wen! You can call me Weldon :coffee:
 ## 🛠️ Experiences
 
 <p align="center">
+    <a href="https://www.java.com/en/download/help/whatis_java.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  style="width: 50px;" /></a> &emsp;&nbsp;
+    <a href="https://isocpp.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"  style="width: 50px" /></a> &emsp;&nbsp;
+    <a href="https://ecma-international.org/publications-and-standards/standards/ecma-262/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  style="width: 50px" /></a> &emsp;&nbsp;
+    <a href="https://www.gnu.org/software/bash/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"  style="width: 50px" /></a> &emsp;&nbsp;
+    <a href="https://www.lua.org/about.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg"  style="width: 50px" /></a> &emsp;&nbsp;
+    <a href="https://www.python.org/about/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  style="width: 50px" /></a>
+</p>
+<!--
+<p align="center">
     <a href="https://code.visualstudio.com/"><img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/exprience/icons/visual-studio-code.png"  style="width: 50px;" /></a> &emsp;&nbsp;
     <a href="https://developer.android.com/studio"><img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/exprience/icons/android-studio.png"  style="width: 50px" /></a> &emsp;&nbsp;
     <a href="https://www.jetbrains.com/webstorm/"><img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/exprience/icons/webstorm.png"  style="width: 50px" /></a> &emsp;&nbsp;
@@ -34,6 +43,7 @@ Hi, I’m Jiayuan Wen! You can call me Weldon :coffee:
     <a href="https://www.blender.org/"><img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/exprience/icons/blender.png"  style="width: 50px" /></a> &emsp;&nbsp;
     <a href="https://www.adobe.com/products/photoshop.html?promoid=RBS7NL7F&mv=other"><img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/exprience/icons/photoshop.png"  style="width: 50px" /></a>
 </p>
+-->
 <!--
 ![Jiayuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiayuanwen&show_icons=true&bg_color=00000000&text_color=777777&border_color=777777)
 -->
