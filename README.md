@@ -29,10 +29,12 @@ Hi, I’m Jiayuan Wen! You can call me Weldon :coffee:
 <p align="center">
     <a href="https://www.java.com/en/download/help/whatis_java.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  style="width: 50px;" /></a> &emsp;&nbsp;
     <a href="https://isocpp.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"  style="width: 50px" /></a> &emsp;&nbsp;
-    <a href="https://ecma-international.org/publications-and-standards/standards/ecma-262/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  style="width: 50px" /></a> &emsp;&nbsp;
     <a href="https://www.gnu.org/software/bash/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"  style="width: 50px" /></a> &emsp;&nbsp;
     <a href="https://www.lua.org/about.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg"  style="width: 50px" /></a> &emsp;&nbsp;
-    <a href="https://www.python.org/about/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  style="width: 50px" /></a>
+    <a href="https://www.python.org/about/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  style="width: 50px" /></a> &emsp;&nbsp;
+    <a href="https://ecma-international.org/publications-and-standards/standards/ecma-262/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  style="width: 50px" /></a> &emsp;&nbsp;
+    <a href="https://html.spec.whatwg.org/multipage/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  style="width: 50px" /></a> &emsp;&nbsp;
+    <a href="https://www.w3.org/TR/CSS/#css"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  style="width: 50px" /></a> &emsp;&nbsp;
 </p>
 <!--
 <p align="center">
