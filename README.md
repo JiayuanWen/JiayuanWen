@@ -11,7 +11,7 @@ Hi, I’m Jiayuan Wen! You can call me Weldon :coffee:
   Computer Science B.S. from Pennsylvania State University. 
 </p>
 <p align="center">
-  VR/AR and Linux enthusiast. Love Art and Filmmaking. Huge fan of Half-Life, still waiting for Gabe to solve 1+2. The drawing is from a temple in China, uncredited unfortunately.
+  VR/AR and Linux enthusiast. Love Art and Filmmaking. Huge fan of Half-Life, still waiting for Gabe to solve 1+2. Painting not by me, uncredited unfortunately.
 </p>
 <!--
 <p align="center">
