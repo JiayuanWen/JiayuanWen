@@ -1,8 +1,9 @@
+<!-- ========================= Title Image =========================-->
 <p align="center">
   <img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/background/1579034.jpg" />
 </p>
 
-
+<!-- ========================= Self Intro =========================-->
 <h2 align="center">
 Hi, I’m Jiayuan Wen! You can call me Weldon :coffee:
 </h2>
@@ -12,23 +13,30 @@ Hi, I’m Jiayuan Wen! You can call me Weldon :coffee:
 <p align="center">
   VR/AR and Linux enthusiast. Love Art and VFX. Waiting for Gabe to count to 3.
 </p>
+<!--
 <p align="center">
-  <!--<img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/logo/logal-gold-red.png" width="150px" /> &nbsp; </p> -->
+  <img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/logo/logal-gold-red.png" width="150px" /> &nbsp; </p> 
 </p> 
+-->
+<!--
 <p align="center">
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=JiayuanWen&theme=graywhite&background=DD272700&border=818181&stroke=A8A8A8&ring=AEFF00&fire=FFBB00&currStreakNum=8E8E8E&sideNums=8E8E8E&currStreakLabel=8E8E8E&sideLabels=8E8E8E&dates=8E8E8E"/> -->
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=JiayuanWen&theme=graywhite&background=DD272700&border=818181&stroke=A8A8A8&ring=AEFF00&fire=FFBB00&currStreakNum=8E8E8E&sideNums=8E8E8E&currStreakLabel=8E8E8E&sideLabels=8E8E8E&dates=8E8E8E"/> 
 </p> 
+-->
 
 <h4 align="center">
   <b>My Site:</b> https://jiayuanwen.github.io/
 </h4>
 
-
+<!-- ========================= Experiences =========================-->
 ## 🛠️ Experiences
-
+<h3 align="center">
+ Languages:
+</h3>
 <p align="center">
     <a href="https://www.java.com/en/download/help/whatis_java.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  style="width: 50px;" /></a> &emsp;&nbsp;
     <a href="https://isocpp.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"  style="width: 50px" /></a> &emsp;&nbsp;
+    <a href="https://www.iso.org/standard/74528.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"  style="width: 50px" /></a> &emsp;&nbsp;
     <a href="https://www.gnu.org/software/bash/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"  style="width: 50px" /></a> &emsp;&nbsp;
     <a href="https://www.lua.org/about.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg"  style="width: 50px" /></a> &emsp;&nbsp;
     <a href="https://www.python.org/about/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  style="width: 50px" /></a> &emsp;&nbsp;
@@ -36,16 +44,21 @@ Hi, I’m Jiayuan Wen! You can call me Weldon :coffee:
     <a href="https://html.spec.whatwg.org/multipage/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  style="width: 50px" /></a> &emsp;&nbsp;
     <a href="https://www.w3.org/TR/CSS/#css"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  style="width: 50px" /></a> &emsp;&nbsp;
 </p>
-<!--
+
+<h3 align="center">
+ Tools & Tech:
+</h3>
 <p align="center">
     <a href="https://code.visualstudio.com/"><img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/exprience/icons/visual-studio-code.png"  style="width: 50px;" /></a> &emsp;&nbsp;
-    <a href="https://developer.android.com/studio"><img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/exprience/icons/android-studio.png"  style="width: 50px" /></a> &emsp;&nbsp;
+    <a href="https://developer.android.com/studio"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"  style="width: 50px" /></a> &emsp;&nbsp;
     <a href="https://www.jetbrains.com/webstorm/"><img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/exprience/icons/webstorm.png"  style="width: 50px" /></a> &emsp;&nbsp;
     <a href="https://unity.com/"><img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/exprience/icons/unity.png"  style="width: 50px" /></a> &emsp;&nbsp;
     <a href="https://www.blender.org/"><img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/exprience/icons/blender.png"  style="width: 50px" /></a> &emsp;&nbsp;
-    <a href="https://www.adobe.com/products/photoshop.html?promoid=RBS7NL7F&mv=other"><img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/exprience/icons/photoshop.png"  style="width: 50px" /></a>
+    <a href="https://www.adobe.com/products/photoshop.html?promoid=RBS7NL7F&mv=other"><img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/exprience/icons/photoshop.png"  style="width: 50px" /></a> &emsp;&nbsp;
+    <a href="https://www.microsoft.com/en-us/windows"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"  style="width: 50px" /></a> &emsp;&nbsp;
+    <a href="https://docs.kernel.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"  style="width: 50px" /></a> 
 </p>
--->
+
 <!--
 ![Jiayuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiayuanwen&show_icons=true&bg_color=00000000&text_color=777777&border_color=777777)
 -->
@@ -62,6 +75,7 @@ Hi, I’m Jiayuan Wen! You can call me Weldon :coffee:
   <a href="https://github.com/stars/JiayuanWen/lists/experimentation">:alembic: Experiments</a>
 </h3>
 
+<!-- ========================= Contacts =========================-->
 <h2>
 📬 Contact Me:
 </h2>
