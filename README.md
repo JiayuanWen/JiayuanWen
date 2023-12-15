@@ -1,6 +1,6 @@
 <!-- ========================= Title Image =========================-->
 <p align="center">
-  <img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/background/mistymountain-100m.jpg" width=800 />
+  <img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/background/mistymountain-100m.jpg" width=600 />
 </p>
 
 <!-- ========================= Self Intro =========================-->
