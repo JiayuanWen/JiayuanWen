@@ -55,9 +55,11 @@ Hi, I’m Jiayuan Wen! You can call me Weldon :coffee:
     <a href="https://www.jetbrains.com/webstorm/"><img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/exprience/icons/webstorm.png"  style="width: 50px" /></a> &emsp;&nbsp;
     <a href="https://unity.com/"><img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/exprience/icons/unity.png"  style="width: 50px" /></a> &emsp;&nbsp;
     <a href="https://www.blender.org/"><img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/exprience/icons/blender.png"  style="width: 50px" /></a> &emsp;&nbsp;
-    <a href="https://www.adobe.com/products/photoshop.html?promoid=RBS7NL7F&mv=other"><img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/exprience/icons/photoshop.png"  style="width: 50px" /></a> &emsp;&nbsp;
     <a href="https://www.microsoft.com/en-us/windows"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"  style="width: 50px" /></a> &emsp;&nbsp;
     <a href="https://docs.kernel.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"  style="width: 50px" /></a> 
+    <!-- Hidden icons 
+    <a href="https://www.adobe.com/products/photoshop.html?promoid=RBS7NL7F&mv=other"><img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/exprience/icons/photoshop.png"  style="width: 50px" /></a> &emsp;&nbsp;
+    -->
 </p>
 <br/>
 <br/>
@@ -86,16 +88,11 @@ Hi, I’m Jiayuan Wen! You can call me Weldon :coffee:
   <img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.png" width="25px" /> LinkedIn:                     <img src="https://www.pngmart.com/files/16/Gmail-Logo-PNG-Transparent-Image.png" width="25px" /> Email: <br/>
     <a href="https://www.linkedin.com/in/jiayuanwen/">Jiayuan "Weldon" Wen</a>          <a href="mailto:wenjiaxiaoyuan@gmail.com">wenjiaxiaoyuan@gmail.com</a>
   </pre>
-  
   <br/> 
   <br/> 
-  
-  
 </div>
-
-
 <p>
- 
+ <!-- Empty space -->
 </p>
 <br/>
 <br/>
