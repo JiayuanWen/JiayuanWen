@@ -41,6 +41,7 @@ Hi, I’m Jiayuan Wen! You can call me Weldon :coffee:
     <a href="https://www.lua.org/about.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg"  style="width: 50px" /></a> &emsp;&nbsp;
     <a href="https://www.python.org/about/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  style="width: 50px" /></a> &emsp;&nbsp;
     <a href="https://ecma-international.org/publications-and-standards/standards/ecma-262/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  style="width: 50px" /></a> &emsp;&nbsp;
+    <a href="https://react.dev/"><img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"  style="width: 50px" /></a> &emsp;&nbsp;
     <a href="https://html.spec.whatwg.org/multipage/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  style="width: 50px" /></a> &emsp;&nbsp;
     <a href="https://www.w3.org/TR/CSS/#css"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  style="width: 50px" /></a> &emsp;&nbsp;
 </p>
