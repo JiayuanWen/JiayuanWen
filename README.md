@@ -1,17 +1,20 @@
-<!-- ========================= Title Image =========================-->
-<p align="center">
-  <img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/background/mistymountain-100m.jpg" width=600 />
-</p>
 
 <!-- ========================= Self Intro =========================-->
 <h2 align="center">
 Hi, I’m Jiayuan Wen! You can call me Weldon :coffee:
 </h2>
+
+<!-- ========================= Title Image =========================-->
+<p align="center">
+  <img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/background/mistymountain-100m.jpg" width=600 />
+</p>
+
+<!-- ========================= Self Desc =========================-->
 <p align="center">
   Computer Science B.S. from Pennsylvania State University. 
 </p>
 <p align="center">
-  VR/AR and Linux enthusiast. Love Art and Filmmaking. Huge fan of Half-Life, still waiting for Gabe to solve 1+2. Painting not by me, uncredited unfortunately.
+  VR/AR and Linux enthusiast. Love Art and Filmmaking. Huge fan of Half-Life, still waiting for Gabe to solve 1+2. 
 </p>
 <!--
 <p align="center">
