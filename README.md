@@ -1,4 +1,3 @@
-
 <!-- ========================= Self Intro =========================-->
 <h2 align="center">
 Hi, I’m Jiayuan Wen! You can call me Weldon :coffee:
@@ -6,16 +5,17 @@ Hi, I’m Jiayuan Wen! You can call me Weldon :coffee:
 
 <!-- ========================= Title Image =========================-->
 <p align="center">
-  <img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/background/mistymountain-100m.jpg" width=600 />
+  <img src="https://wallpapercave.com/wp/wp8148899.png" width=600 />
 </p>
 
 <!-- ========================= Self Desc =========================-->
 <p align="center">
-  Computer Science B.S. from Pennsylvania State University. 
+  Computer Science B.S. from Pennsylvania State University; Front-end dev at M8.
 </p>
 <p align="center">
   VR/AR and Linux enthusiast. Love Art and Filmmaking. Huge fan of Half-Life, still waiting for Gabe to solve 1+2. 
 </p>
+
 <!--
 <p align="center">
   <img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/logo/logal-gold-red.png" width="150px" /> &nbsp; </p> 
@@ -37,30 +37,30 @@ Hi, I’m Jiayuan Wen! You can call me Weldon :coffee:
  Languages:
 </h3>
 <p align="center">
-    <a href="https://www.java.com/en/download/help/whatis_java.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  style="width: 50px;" /></a> &emsp;&nbsp;
-    <a href="https://isocpp.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"  style="width: 50px" /></a> &emsp;&nbsp;
-    <a href="https://www.iso.org/standard/74528.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"  style="width: 50px" /></a> &emsp;&nbsp;
-    <a href="https://www.gnu.org/software/bash/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"  style="width: 50px" /></a> &emsp;&nbsp;
-    <a href="https://www.lua.org/about.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg"  style="width: 50px" /></a> &emsp;&nbsp;
-    <a href="https://www.python.org/about/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  style="width: 50px" /></a> &emsp;&nbsp;
-    <a href="https://ecma-international.org/publications-and-standards/standards/ecma-262/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  style="width: 50px" /></a> &emsp;&nbsp;
+    <a href="https://www.java.com/en/download/help/whatis_java.html"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-plain.svg"  style="width: 50px;" /></a> &emsp;&nbsp;
+    <a href="https://isocpp.org/"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-plain.svg"  style="width: 50px" /></a> &emsp;&nbsp;
+    <a href="https://www.iso.org/standard/74528.html"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-plain.svg"  style="width: 50px" /></a> &emsp;&nbsp;
+    <a href="https://www.gnu.org/software/bash/"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bash/bash-original.svg"  style="width: 50px" /></a> &emsp;&nbsp;
+    <a href="https://www.lua.org/about.html"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/lua/lua-plain.svg"  style="width: 50px" /></a> &emsp;&nbsp;
+    <a href="https://www.python.org/about/"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-plain.svg"  style="width: 50px" /></a> &emsp;&nbsp;
+    <a href="https://ecma-international.org/publications-and-standards/standards/ecma-262/"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-plain.svg"  style="width: 50px" /></a> &emsp;&nbsp;
     <a href="https://react.dev/"><img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"  style="width: 50px" /></a> &emsp;&nbsp;
-    <a href="https://html.spec.whatwg.org/multipage/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  style="width: 50px" /></a> &emsp;&nbsp;
-    <a href="https://www.w3.org/TR/CSS/#css"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  style="width: 50px" /></a> &emsp;&nbsp;
+    <a href="https://html.spec.whatwg.org/multipage/"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons//html5/html5-plain.svg"  style="width: 50px" /></a> &emsp;&nbsp;
+    <a href="https://www.w3.org/TR/CSS/#css"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-plain.svg"  style="width: 50px" /></a> &emsp;&nbsp;
 </p>
 
 <h3 align="center">
  Tools & Tech:
 </h3>
 <p align="center">
-    <a href="https://visualstudio.microsoft.com/"><img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/exprience/icons/visual-studio.png"  style="width: 50px;" /></a> &emsp;&nbsp;
-    <a href="https://code.visualstudio.com/"><img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/exprience/icons/visual-studio-code.png"  style="width: 50px;" /></a> &emsp;&nbsp;
-    <a href="https://developer.android.com/studio"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"  style="width: 50px" /></a> &emsp;&nbsp;
-    <a href="https://www.jetbrains.com/webstorm/"><img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/exprience/icons/webstorm.png"  style="width: 50px" /></a> &emsp;&nbsp;
-    <a href="https://unity.com/"><img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/exprience/icons/unity.png"  style="width: 50px" /></a> &emsp;&nbsp;
+    <a href="https://visualstudio.microsoft.com/"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/visualstudio/visualstudio-plain.svg"  style="width: 50px;" /></a> &emsp;&nbsp;
+    <a href="https://code.visualstudio.com/"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vscode/vscode-original.svg"  style="width: 50px;" /></a> &emsp;&nbsp;
+    <a href="https://developer.android.com/studio"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/androidstudio/androidstudio-original.svg"  style="width: 50px" /></a> &emsp;&nbsp;
+    <a href="https://www.jetbrains.com/webstorm/"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/webstorm/webstorm-plain.svg"  style="width: 50px" /></a> &emsp;&nbsp;
+    <a href="https://unity.com/"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/unity/unity-plain.svg"  style="width: 50px" /></a> &emsp;&nbsp;
     <a href="https://www.blender.org/"><img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/exprience/icons/blender.png"  style="width: 50px" /></a> &emsp;&nbsp;
-    <a href="https://www.microsoft.com/en-us/windows"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"  style="width: 50px" /></a> &emsp;&nbsp;
-    <a href="https://docs.kernel.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"  style="width: 50px" /></a> 
+    <a href="https://www.microsoft.com/en-us/windows"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/windows8/windows8-original.svg"  style="width: 50px" /></a> &emsp;&nbsp;
+    <a href="https://docs.kernel.org/"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-plain.svg"  style="width: 50px" /></a> 
     <!-- Hidden icons 
     <a href="https://www.adobe.com/products/photoshop.html?promoid=RBS7NL7F&mv=other"><img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/exprience/icons/photoshop.png"  style="width: 50px" /></a> &emsp;&nbsp;
     -->
