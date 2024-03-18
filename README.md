@@ -7,14 +7,16 @@ Hi, I’m Jiayuan Wen! You can call me Weldon :coffee:
 <p align="center">
   <img src="https://wallpapercave.com/wp/wp8148899.png" width=600 />
 </p>
+<br/>
 
 <!-- ========================= Self Desc =========================-->
 <p align="center">
-  Computer Science B.S. from Pennsylvania State University; Front-end dev at M8.
+  <b>Computer Science B.S. from Pennsylvania State University; Front-end developer at M8. </b>
 </p>
 <p align="center">
-  VR/AR and Linux enthusiast. Love Art and Filmmaking. Huge fan of Half-Life, still waiting for Gabe to solve 1+2. 
+  <b>VR/AR and Linux enthusiast. Love Art and Filmmaking. Huge fan of Half-Life, still waiting for Gabe to solve 1+2. </b>
 </p>
+<br/>
 
 <!--
 <p align="center">
@@ -27,9 +29,9 @@ Hi, I’m Jiayuan Wen! You can call me Weldon :coffee:
 </p> 
 -->
 
-<h4 align="center">
+<h3 align="center">
   <b>My Site:</b> https://jiayuanwen.github.io/
-</h4>
+</h3>
 
 <!-- ========================= Experiences =========================-->
 ## 🛠️ Experiences
@@ -58,7 +60,7 @@ Hi, I’m Jiayuan Wen! You can call me Weldon :coffee:
     <a href="https://developer.android.com/studio"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/androidstudio/androidstudio-original.svg"  style="width: 50px" /></a> &emsp;&nbsp;
     <a href="https://www.jetbrains.com/webstorm/"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/webstorm/webstorm-plain.svg"  style="width: 50px" /></a> &emsp;&nbsp;
     <a href="https://unity.com/"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/unity/unity-plain.svg"  style="width: 50px" /></a> &emsp;&nbsp;
-    <a href="https://www.blender.org/"><img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/exprience/icons/blender.png"  style="width: 50px" /></a> &emsp;&nbsp;
+    <a href="https://www.blender.org/"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/blender/blender-original.svg"  style="width: 50px" /></a> &emsp;&nbsp;
     <a href="https://www.microsoft.com/en-us/windows"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/windows8/windows8-original.svg"  style="width: 50px" /></a> &emsp;&nbsp;
     <a href="https://docs.kernel.org/"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-plain.svg"  style="width: 50px" /></a> 
     <!-- Hidden icons 
@@ -66,22 +68,25 @@ Hi, I’m Jiayuan Wen! You can call me Weldon :coffee:
     -->
 </p>
 <br/>
-<br/>
+
 <!--
 ![Jiayuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiayuanwen&show_icons=true&bg_color=00000000&text_color=777777&border_color=777777)
 -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiayuanWen&layout=compact&count_private=true&langs_count=10&hide=css,ejs,html&exclude_repo=projects,blogs&bg_color=-45,ff0000,ff8800&text_color=e2dc00&border_color=00000000&title_color=fff900&icon_color=f8ff00" />
-  <!--
-  <img src="https://github-readme-stats.vercel.app/api?username=jiayuanwen&include_all_commits=true&count_private=trie&show_icons=true&bg_color=-45,ff0000,ff8800&text_color=e2dc00&border_color=00000000&title_color=fff900&icon_color=f8ff00" />
-  -->
-</p>
 
 <h3 align="center">
   <a href="https://github.com/stars/JiayuanWen/lists/computer-projects">:computer: My Projects</a>
   •
   <a href="https://github.com/stars/JiayuanWen/lists/experimentation">:alembic: Experiments</a>
 </h3>
+<br/>
+
+<p align="center">
+  <!--
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiayuanWen&layout=compact&count_private=true&langs_count=10&hide=css,ejs,html&exclude_repo=projects,blogs&bg_color=-45,ff0000,ff8800&text_color=e2dc00&border_color=00000000&title_color=fff900&icon_color=f8ff00" />
+  <!--
+  <img src="https://github-readme-stats.vercel.app/api?username=jiayuanwen&include_all_commits=true&count_private=trie&show_icons=true&bg_color=-45,ff0000,ff8800&text_color=e2dc00&border_color=00000000&title_color=fff900&icon_color=f8ff00" />
+  -->
+</p>
 
 <!-- ========================= Contacts =========================-->
 <h2>
