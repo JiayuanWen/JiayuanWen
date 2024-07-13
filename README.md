@@ -11,7 +11,7 @@ Hi, I’m Jiayuan Wen! You can call me Weldon :coffee:
 
 <!-- ========================= Self Desc =========================-->
 <p align="center">
-  <b>Computer Science B.S. from Pennsylvania State University; Front-end developer at M8. </b>
+  <b>AI integration engineer at Happy Cashier Inc, Front-end developer at M8, Computer Science B.S. from Pennsylvania State University. </b>
 </p>
 <p align="center">
   <b>VR/AR and Linux enthusiast. Love Art and Filmmaking. Huge fan of Half-Life, still waiting for Gabe to solve 1+2. </b>
