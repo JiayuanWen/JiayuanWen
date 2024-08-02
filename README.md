@@ -5,7 +5,7 @@ Hi, I’m Jiayuan Wen! You can call me Weldon :coffee:
 
 <!-- ========================= Title Image =========================-->
 <p align="center">
-  <img src="https://wallpapercave.com/wp/wp8148899.png" width=600 />
+  <img src="./images/logo/Logo-1.png" width=200 />
 </p>
 <br/>
 
@@ -18,11 +18,6 @@ Hi, I’m Jiayuan Wen! You can call me Weldon :coffee:
 </p>
 <br/>
 
-<!--
-<p align="center">
-  <img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/logo/logal-gold-red.png" width="150px" /> &nbsp; </p> 
-</p> 
--->
 <!--
 <p align="center">
    <img src="https://github-readme-streak-stats.herokuapp.com?user=JiayuanWen&theme=graywhite&background=DD272700&border=818181&stroke=A8A8A8&ring=AEFF00&fire=FFBB00&currStreakNum=8E8E8E&sideNums=8E8E8E&currStreakLabel=8E8E8E&sideLabels=8E8E8E&dates=8E8E8E"/> 
@@ -48,11 +43,11 @@ Hi, I’m Jiayuan Wen! You can call me Weldon :coffee:
     <a href="https://ecma-international.org/publications-and-standards/standards/ecma-262/"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-plain.svg"  style="width: 50px" /></a> &emsp;&nbsp;
     <a href="https://react.dev/"><img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"  style="width: 50px" /></a> &emsp;&nbsp;
     <a href="https://html.spec.whatwg.org/multipage/"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons//html5/html5-plain.svg"  style="width: 50px" /></a> &emsp;&nbsp;
-    <a href="https://www.w3.org/TR/CSS/#css"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-plain.svg"  style="width: 50px" /></a> &emsp;&nbsp;
+    <a href="https://www.w3.org/TR/CSS/#css"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-plain.svg"  style="width: 50px" /></a> 
 </p>
 
 <h3 align="center">
- Tools & Tech:
+ Tools:
 </h3>
 <p align="center">
     <a href="https://visualstudio.microsoft.com/"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/visualstudio/visualstudio-plain.svg"  style="width: 50px;" /></a> &emsp;&nbsp;
@@ -61,8 +56,7 @@ Hi, I’m Jiayuan Wen! You can call me Weldon :coffee:
     <a href="https://www.jetbrains.com/webstorm/"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/webstorm/webstorm-plain.svg"  style="width: 50px" /></a> &emsp;&nbsp;
     <a href="https://unity.com/"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/unity/unity-plain.svg"  style="width: 50px" /></a> &emsp;&nbsp;
     <a href="https://www.blender.org/"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/blender/blender-original.svg"  style="width: 50px" /></a> &emsp;&nbsp;
-    <a href="https://www.microsoft.com/en-us/windows"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/windows8/windows8-original.svg"  style="width: 50px" /></a> &emsp;&nbsp;
-    <a href="https://docs.kernel.org/"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-plain.svg"  style="width: 50px" /></a> 
+    <a href="https://expo.dev/"><img src="https://baresearch.org/image_proxy?url=https%3A%2F%2Fbestofjs.org%2Flogos%2Fexpo.svg&h=a76f41b79363438d7845addd5ffff4ff9857dcb3ded4b603d85e24d40c80f0c0"  style="width: 50px" /></a>
     <!-- Hidden icons 
     <a href="https://www.adobe.com/products/photoshop.html?promoid=RBS7NL7F&mv=other"><img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/exprience/icons/photoshop.png"  style="width: 50px" /></a> &emsp;&nbsp;
     -->
@@ -90,7 +84,7 @@ Hi, I’m Jiayuan Wen! You can call me Weldon :coffee:
 
 <!-- ========================= Contacts =========================-->
 <h2>
-📬 Contact Me:
+📬 Connect with Me:
 </h2>
 <div align="center">
   <pre>
