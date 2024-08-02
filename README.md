@@ -50,15 +50,16 @@ Hi, I’m Jiayuan Wen! You can call me Weldon :coffee:
  Tools:
 </h3>
 <p align="center">
-    <a href="https://visualstudio.microsoft.com/"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/visualstudio/visualstudio-plain.svg"  style="width: 50px;" /></a> &emsp;&nbsp;
     <a href="https://code.visualstudio.com/"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vscode/vscode-original.svg"  style="width: 50px;" /></a> &emsp;&nbsp;
-    <a href="https://developer.android.com/studio"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/androidstudio/androidstudio-original.svg"  style="width: 50px" /></a> &emsp;&nbsp;
+    <a href="https://expo.dev/"><img src="https://baresearch.org/image_proxy?url=https%3A%2F%2Fbestofjs.org%2Flogos%2Fexpo.svg&h=a76f41b79363438d7845addd5ffff4ff9857dcb3ded4b603d85e24d40c80f0c0"  style="width: 50px" /></a> &emsp;&nbsp;
+    <a href="https://www.wix.com/"><img src="https://cdn-icons-png.flaticon.com/256/5968/5968770.png"  style="width: 50px" /></a> &emsp;&nbsp;
     <a href="https://www.jetbrains.com/webstorm/"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/webstorm/webstorm-plain.svg"  style="width: 50px" /></a> &emsp;&nbsp;
+    <a href="https://developer.android.com/studio"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/androidstudio/androidstudio-original.svg"  style="width: 50px" /></a> &emsp;&nbsp;
     <a href="https://unity.com/"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/unity/unity-plain.svg"  style="width: 50px" /></a> &emsp;&nbsp;
     <a href="https://www.blender.org/"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/blender/blender-original.svg"  style="width: 50px" /></a> &emsp;&nbsp;
-    <a href="https://expo.dev/"><img src="https://baresearch.org/image_proxy?url=https%3A%2F%2Fbestofjs.org%2Flogos%2Fexpo.svg&h=a76f41b79363438d7845addd5ffff4ff9857dcb3ded4b603d85e24d40c80f0c0"  style="width: 50px" /></a>
     <!-- Hidden icons 
     <a href="https://www.adobe.com/products/photoshop.html?promoid=RBS7NL7F&mv=other"><img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/exprience/icons/photoshop.png"  style="width: 50px" /></a> &emsp;&nbsp;
+    <a href="https://visualstudio.microsoft.com/"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/visualstudio/visualstudio-plain.svg"  style="width: 50px;" /></a> &emsp;&nbsp;
     -->
 </p>
 <br/>
