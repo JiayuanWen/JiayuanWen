@@ -4,7 +4,7 @@
 </p>
 
 <!-- ========================= Self Intro =========================-->
-<h1 align="center">
+<h1 align="left">
 Jiayuan "Weldon" Wen - @JiayuanWen
 </h1>
 
@@ -15,7 +15,6 @@ Jiayuan "Weldon" Wen - @JiayuanWen
 <p align="left">
   VR/AR enthusiast. Love Art and Filmmaking. Huge fan of Half-Life, still waiting for Gabe to solve 1+2.
 </p>
-<br/>
 
 <!--
 <p align="center">
@@ -23,46 +22,63 @@ Jiayuan "Weldon" Wen - @JiayuanWen
 </p> 
 -->
 
-<h3 align="left">
-  <b>My Website:</b> https://jiayuanwen.github.io/
-</h3>
-<br/>
+<p align="center">
+  <a href="https://jiayuanwen.github.io/">Website</a>
+</p>
 
 <!-- ========================= Experiences =========================-->
-## 🛠️ Experiences
-<h3 align="left">
- Languages: &emsp;
-  <a href="https://ecma-international.org/publications-and-standards/standards/ecma-262/"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"  style="width: 30px" /></a> &emsp;&nbsp;
-  <a href="https://www.python.org/about/"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg"  style="width: 30px" /></a> &emsp;&nbsp;
-  <a href="https://www.gnu.org/software/bash/"><img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"  style="width: 30px" /></a> &emsp;&nbsp;
-  <a href="https://www.lua.org/about.html"><img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-plain.svg"  style="width: 30px" /></a> &emsp;&nbsp;
-  <a href="https://www.java.com/en/download/help/whatis_java.html"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg"  style="width: 30px;" /></a> &emsp;&nbsp;
-  <a href="https://html.spec.whatwg.org/multipage/"><img src="https://github.com/devicons/devicon/blob/master/icons//html5/html5-plain.svg"  style="width: 30px" /></a> &emsp;&nbsp;
-  <a href="https://www.w3.org/TR/CSS/#css"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"  style="width: 30px" /></a> &emsp;&nbsp;
-  <a href="https://isocpp.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg"  style="width: 30px" /></a> &emsp;&nbsp;
-  <a href="https://www.iso.org/standard/74528.html"><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg"  style="width: 30px" /></a> &emsp;&nbsp;
-</h3>
+<h2 align="left">
+  🛠️ Tech Knowledge
+</h2>
 
 <h3 align="left">
- Frameworks: &emsp;
-  <a href="https://react.dev/"><img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"  style="width: 30px" /></a> &emsp;&nbsp;
+ • Languages
 </h3>
+<div align="left">
+  <img alt="Javascript Badge" src="https://img.shields.io/badge/-JS-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img alt="Python Badge" src="https://img.shields.io/badge/-Python-%233776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="Bash Badge" src="https://img.shields.io/badge/-Bash-%234EAA25?style=for-the-badge&logo=gnubash&logoColor=white">
+  <img alt="Lua Badge" src="https://img.shields.io/badge/-Lua-%232C2D72?style=for-the-badge&logo=lua">
+  <img alt="Java Badge" src="https://img.shields.io/badge/-Java-%23FC4C02?style=for-the-badge&logo=java&logoColor=white">
+  <img alt="HTML5 Badge" src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img alt="CSS Badge" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img alt="CPP Badge" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img alt="C Badge" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+</div>
+
+
+<div>
+  
+</div>
+
+
+
 
 <h3 align="left">
- Tools: &emsp;
-  <a href="https://code.visualstudio.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"  style="width: 30px;" /></a> &emsp;&nbsp;
-  <a href="https://expo.dev/"><img src="https://baresearch.org/image_proxy?url=https%3A%2F%2Fbestofjs.org%2Flogos%2Fexpo.svg&h=a76f41b79363438d7845addd5ffff4ff9857dcb3ded4b603d85e24d40c80f0c0"  style="width: 30px" /></a> &emsp;&nbsp;
-  <a href="https://www.wix.com/"><img src="https://cdn-icons-png.flaticon.com/256/5968/5968770.png"  style="width: 30px" /></a> &emsp;&nbsp;
-  <a href="https://wordpress.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg"  style="width: 30px" /></a> &emsp;&nbsp;
-  <a href="https://www.jetbrains.com/webstorm/"><img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-plain.svg"  style="width: 30px" /></a> &emsp;&nbsp;
-  <a href="https://developer.android.com/studio"><img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg"  style="width: 30px" /></a> &emsp;&nbsp;
-  <a href="https://unity.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-plain.svg"  style="width: 30px" /></a> &emsp;&nbsp;
-  <a href="https://www.blender.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg"  style="width: 30px" /></a> &emsp;&nbsp;
+ • Frameworks
+</h3>
+<p align="left">
+  <img alt="React Badge" src="https://img.shields.io/badge/-React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black">
+</p>
+
+<h3 align="left">
+ • Tools
+</h3>
+ 
+<p align="left">
+  <img alt="VSCode Badge" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  <img alt="Expo Badge" src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white">
+  <img alt="Wix Badge" src="https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white">
+  <img alt="WordPress Badge" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
+  <img alt="Android Studio Badge" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=black&">
+  <img alt="Webstorm Badge" src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white">
+  <img alt="Unity Badge" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
+  <img alt="Blender Badge" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
   <!-- Hidden icons 
   <a href="https://www.adobe.com/products/photoshop.html?promoid=RBS7NL7F&mv=other"><img src="https://github.com/JiayuanWen/JiayuanWen/blob/main/images/exprience/icons/photoshop.png"  style="width: 30px" /></a> &emsp;&nbsp;
   <a href="https://visualstudio.microsoft.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"  style="width: 30px;" /></a> &emsp;&nbsp;
   -->
-</h3>
+</p>
 <br/>
 
 <!--
@@ -70,10 +86,10 @@ Jiayuan "Weldon" Wen - @JiayuanWen
 -->
 
 <h3 align="left">
-  <a href="https://github.com/stars/JiayuanWen/lists/computer-projects">:computer: Check out my projects</a>
+  💻 Check out my projects: <a href="https://github.com/stars/JiayuanWen/lists/computer-projects">Projects</a>
 </h3>
 <h3 align="left">
-  <a href="https://github.com/stars/JiayuanWen/lists/experimentation">:alembic: Check out my experiments</a>
+  💻 Check out my experiments: <a href="https://github.com/stars/JiayuanWen/lists/experimentation">Experiments</a>
 </h3>
 
 <br/>
