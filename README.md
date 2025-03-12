@@ -31,6 +31,10 @@ Jiayuan "Weldon" Wen - @JiayuanWen
   🛠️ Tech Knowledge
 </h2>
 
+<div align="center">
+  <img src="/images/cliparts/code.png" width=460 align="right">
+</div>
+
 <h3 align="left">
  • Languages
 </h3>
