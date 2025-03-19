@@ -1,19 +1,16 @@
 <!-- ========================= Title Image =========================-->
-<p align="center">
+<!--<p align="center">
   <img src="./images/logo/Logo-1.png" width=200 /> 
-</p>
+</p>-->
 
 <!-- ========================= Self Intro =========================-->
-<h1 align="left">
-Jiayuan "Weldon" Wen - @JiayuanWen
-</h1>
+<h2 align="left">
+Hello! I'm Jiayuan Wen, you can call me Weldon ☕
+</h2>
 
 <!-- ========================= Self Desc =========================-->
 <p align="left">
-  AI integration engineer and Full-stack developer at Happy Cashier Inc, graduated from Pennsylvania State University with a B.S. in Computer Science. 
-</p>
-<p align="left">
-  VR/AR enthusiast. Love Art and Filmmaking. Huge fan of Half-Life, still waiting for Gabe to solve 1+2.
+  AI integration engineer and Full-stack developer at Happy Cashier Inc, graduated from Pennsylvania State University with a B.S. in Computer Science. VR/AR enthusiast. Love Art and Filmmaking. Huge fan of Half-Life, still waiting for Gabe to solve 1+2.
 </p>
 
 <!--
@@ -21,19 +18,20 @@ Jiayuan "Weldon" Wen - @JiayuanWen
    <img src="https://github-readme-streak-stats.herokuapp.com?user=JiayuanWen&theme=graywhite&background=DD272700&border=818181&stroke=A8A8A8&ring=AEFF00&fire=FFBB00&currStreakNum=8E8E8E&sideNums=8E8E8E&currStreakLabel=8E8E8E&sideLabels=8E8E8E&dates=8E8E8E"/> 
 </p> 
 -->
+<br>
 
-<p align="center">
-  <a href="https://jiayuanwen.github.io/">Website</a>
-</p>
+* 📫 Email: wenjiaxiaoyuan@gmail.com
+* 🏙️ LinkedIn: https://www.linkedin.com/in/jiayuanwen/
+* 🔗 Website: https://jiayuanwen.github.io/
 
 <!-- ========================= Experiences =========================-->
 <h2 align="left">
   🛠️ Tech Knowledge
 </h2>
 
-<!-- <div align="center">
+<div align="center">
   <img src="/images/cliparts/code.png" width=460 align="right">
-</div> -->
+</div> 
 
 <h3 align="left">
  • Languages
@@ -105,25 +103,3 @@ Jiayuan "Weldon" Wen - @JiayuanWen
   <img src="https://github-readme-stats.vercel.app/api?username=jiayuanwen&include_all_commits=true&count_private=trie&show_icons=true&bg_color=-45,ff0000,ff8800&text_color=e2dc00&border_color=00000000&title_color=fff900&icon_color=f8ff00" />
   -->
 </p>
-
-<!-- ========================= Contacts =========================-->
-<h2>
-📬 Connect with Me:
-</h2>
-<div align="center">
-  <pre>
-  <img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.png" width="25px" /> LinkedIn:                     <img src="https://www.pngmart.com/files/16/Gmail-Logo-PNG-Transparent-Image.png" width="25px" /> Email: <br/>
-    <a href="https://www.linkedin.com/in/jiayuanwen/">Jiayuan "Weldon" Wen</a>          <a href="mailto:wenjiaxiaoyuan@gmail.com">wenjiaxiaoyuan@gmail.com</a>
-  </pre>
-</div>
-
-<!--
-## 🎓 Education:
-[<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2019%2F06%2FPennsylvania_State_University_Logo.png&f=1&nofb=1" width="30%"></img>](https://www.psu.edu/) \
-<br>
-**Institution:** Penn State Erie: The Behrend College \
-**Major:** Computer Science \
-**GPA (Cumulative):** 3.19 \
-**GPA (Major):** 3.23
-<br>
--->
