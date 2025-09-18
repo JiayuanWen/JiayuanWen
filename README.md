@@ -21,8 +21,8 @@ Hello! I'm Wylfred Wen ☕
 <br>
 
 * 📫 Email: wenjiaxiaoyuan@gmail.com
-* 🏙️ LinkedIn: https://www.linkedin.com/in/jiayuanwen/
-* 🔗 Website: https://jiayuanwen.github.io/
+* 🏙️ LinkedIn: https://www.linkedin.com/in/wylfredwen/
+* 🔗 Website (WIP): https://jiayuanwen.github.io/ 
 
 <!-- ========================= Experiences =========================-->
 <h2 align="left">
