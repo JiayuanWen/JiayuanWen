@@ -5,7 +5,7 @@
 
 <!-- ========================= Self Intro =========================-->
 <h2 align="left">
-Hello! I'm Jiayuan Wen, you can call me Weldon ☕
+Hello! I'm Wylfred Wen ☕
 </h2>
 
 <!-- ========================= Self Desc =========================-->
